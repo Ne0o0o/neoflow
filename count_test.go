@@ -1,4 +1,4 @@
-package newflow
+package neoflow
 
 import (
 	"math/rand"
